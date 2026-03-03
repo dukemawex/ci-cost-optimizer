@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "demo-run-001",
+    "workflow_name": "CI",
+    "features": {
+      "jobs": 1,
+      "steps": 3,
+      "matrix_variants": 1,
+      "uses_cache_step": false,
+      "dependency_install_steps": 1
+    },
+    "predicted_minutes": 4.75,
+    "baseline_cost_usd": 11.4
+  }
+]

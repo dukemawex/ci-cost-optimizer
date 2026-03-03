@@ -1,0 +1,17 @@
+[
+  {
+    "title": "GitHub Actions billing documentation",
+    "url": "https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions",
+    "snippet": "Official GitHub pricing model with included minutes and OS-specific multipliers."
+  },
+  {
+    "title": "Dependency caching reference",
+    "url": "https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows",
+    "snippet": "Authoritative guidance for cache keys and restore behavior."
+  },
+  {
+    "title": "GitHub-hosted runners reference",
+    "url": "https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners",
+    "snippet": "Runner specs that influence performance and execution duration."
+  }
+]
